@@ -25,7 +25,7 @@ SECRET_KEY = '5w5x_nt%9%#n34!b2cncnngaf)j5k5^sj8lmxdos8_wlyytm&g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'http://biologicas.pythonanywhere.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'Biologicas.pythonanywhere.com']
 
 
 # Application definition
